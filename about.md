@@ -2,11 +2,13 @@
 layout: post
 permalink: /about/index.html
 title: Nothing on this blog is true.
-description: This is a repository of things I have worked on, studied, written, and thought about. While I make reasonable efforts to ensure accuracy, this blog and the projects posted on it are a hobby; if it was worth publishing, I might put it on arXiv. I do, however, appreciate corrections: the email domain is ortsz.com, the name is scythe+xtr, and please do not remove the plus if you are asking about this blog.
+description: This is a repository of things I have worked on, studied, written, and thought about. While I take reasonable effort to be accurate, this blog and everything posted on it are a hobby; if it was worth publishing, I might put it on arXiv.
 tags: [about, Jekyll, theme, responsive]
 image:
   feature: soft-trees.jpg
 ---
+
+Corrections, comments, etc: the email domain is ortsz.com, the name is scythe+xtr; please do not remove the plus if you are asking about this blog.
 
 ### Architecture
 
