@@ -2,7 +2,7 @@ title:            And so on.
 tagline:          Ideas or the lack of them can cause disease.
 description:      A collection of essays and other writings.
 #Comment out url when working locally to resolve base urls correctly
-url: http://jekyll.gtat.me
+url: http://scythe.github.io
 
 # Owner/author information
 owner:
